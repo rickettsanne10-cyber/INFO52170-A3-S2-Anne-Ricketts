@@ -1,6 +1,6 @@
 # calculator.py - Created by Anne Ricketts
 def add(a, b):
-    return a + b
+    return a + b   # Fixed
 
 
 def subtract(a, b):
