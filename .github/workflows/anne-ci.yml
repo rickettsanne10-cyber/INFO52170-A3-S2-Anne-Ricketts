@@ -1,8 +1,8 @@
 name: Anne Python CI Workflow
 
-# This workflow will run every time code is pushed
-# to any branch in the repository
+# Defines the event that triggers this workflow
 on:
+#Run the workflow every time code is pushed to the repository
   push:
 
 # Defines the jobs that will run in this workflow
